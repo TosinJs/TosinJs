@@ -15,7 +15,7 @@ TosinJs is a freshman software developer. He is committed to learning new skills
   
  ---
  ### Current Project
- 
+ <p>I am currently working on building a small-scale social media web app. Powered by react on the front-end and NodeJs on the Backend</p>
  ---
 ### Send Me a message
 @tosinjsamuel@gmail.com
