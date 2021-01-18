@@ -1,6 +1,6 @@
 ### Hi there, Welcome to my Github page
 
-My name is Tosin, I am a newbie software developer.
+TosinJs is a freshman software developer. He is committed to learning new skills and collaborating with others in to acheive great things. 
 
 ---
 
