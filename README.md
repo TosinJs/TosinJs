@@ -1,8 +1,8 @@
 ### Hi there, Welcome to my Github page
 
-TosinJs is a freshman software developer. He is committed to learning new skills and collaborating with others in to acheive great things. 
+TosinJs is a freshman software developer, with a focus on Backend Development. He is committed to learning new skills and collaborating with others in to acheive great things. 
 
----
+ ---
 
 ### What Do I Do
 <p>
@@ -14,9 +14,20 @@ TosinJs is a freshman software developer. He is committed to learning new skills
 </p>
   
  ---
- ### Current Project
- <p>I am currently working on building a small-scale social media web app. Powered by react on the front-end</p>
+  ### My Current Side Project
+ <p>I am Currently building a social media application called Blip using NodeJs/NestJs for the Backend logic and React for the Frontend</p>
+ 
  ---
+ ### What am I Learning Right Now
+ <ul>
+  <li>NodeJs Performance Optimizations</li>
+  <li>Golang for Backend Development</li>
+  <li>Automation. Building CI/CD Pipelines</li>
+  <li>Deployment of Applications Using AWS Services</li>
+ </ul>
+ 
+ ---
+ 
 ### Send Me a message
 @tosinjsamuel@gmail.com
 
