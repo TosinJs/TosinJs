@@ -24,6 +24,7 @@ TosinJs is a freshman software developer, with a focus on Backend Development. H
   <li>Golang for Backend Development</li>
   <li>Automation. Building CI/CD Pipelines</li>
   <li>Deployment of Applications Using AWS Services</li>
+ <li>Data STructures and Algorithms</li>
  </ul>
  
  ---
