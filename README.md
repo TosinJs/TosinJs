@@ -31,11 +31,3 @@ TosinJs is a freshman software developer, with a focus on Backend Development. H
  
 ### Send Me a message
 @tosinjsamuel@gmail.com
-
-### Github
-<img
-  src="https://github-readme-stats.vercel.app/api?username=TosinJs&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=TosinJs+GitHub+Stats&show_icons=true"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TosinJs&hide=html&layout=compact"
-/>
