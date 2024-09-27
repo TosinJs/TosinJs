@@ -1,6 +1,6 @@
 ### Hi there, Welcome to my Github page
 
-TosinJs is a freshman software developer, with a focus on Backend Development. He is committed to learning new skills and collaborating with others in to acheive great things. 
+TosinJs is a software developer, with a focus on Backend Development. He is committed to learning new skills and collaborating with others in to acheive great things. 
 
  ---
 
