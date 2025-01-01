@@ -1,33 +1,37 @@
-### Hi there, Welcome to my Github page
+### Hi there, Welcome to my GitHub page! 👋
 
-TosinJs is a software developer, with a focus on Backend Development. He is committed to learning new skills and collaborating with others in to acheive great things. 
+I'm **Tosin Samuel (TosinJs)**, a **Software Engineer** specializing in **Backend Development** and **Blockchain Technologies**. I'm interested in building distributed systems, crafting efficient backend solutions, and exploring the ever-evolving Web3 ecosystem. I'm passionate about learning new skills, solving complex problems, and collaborating to achieve groundbreaking innovations.
 
- ---
+---
 
-### What Do I Do
+### 🚀 What I Do  
 <p>
+  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" /
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
 </p>
-  
- ---
-  ### My Current Side Project
- <p>I am Currently building a social media application called Blip using NodeJs/NestJs for the Backend logic and React for the Frontend</p>
- 
- ---
- ### What am I Learning Right Now
- <ul>
-  <li>NodeJs Performance Optimizations</li>
-  <li>Golang for Backend Development</li>
-  <li>Automation. Building CI/CD Pipelines</li>
-  <li>Deployment of Applications Using AWS Services</li>
- <li>Data STructures and Algorithms</li>
- </ul>
- 
- ---
- 
-### Send Me a message
-@tosinjsamuel@gmail.com
+
+I work with **Golang**, **Solidity**, and **TypeScript** to build **blockchain-based platforms**, **microservices**, and **cloud-native applications** that scale. I also focus on creating developer-friendly APIs and improving system performance.
+
+---
+
+### 📚 What I’m Learning  
+- Designing **distributed systems** for scalability and fault tolerance  
+- Advanced concepts in **blockchain architecture** and consensus algorithms
+- Building **AI agents** 
+- Enhancing **smart contract security** to prevent vulnerabilities and exploits  
+- Deploying Scalable Applications Using **AWS Services**  
+- Exploring techniques for **interoperability** between blockchain networks
+- **Data Structures and Algorithms** for efficient problem-solving
+
+---
+
+### 📬 Send Me a Message  
+Feel free to reach out via email: **tosinjsamuel@gmail.com**  
+
+Let’s connect and build something extraordinary together! 🌟
